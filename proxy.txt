@@ -2326,6 +2326,7 @@
 .amazon-lantern.com
 .amazon-launchpad.com
 .amazon.co
+.amazon.co.jp
 .amazon.com
 .amazon.it
 .amazon.jobs
