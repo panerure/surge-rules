@@ -9038,7 +9038,6 @@
 .adsame.com
 .adscover.com
 .adsensor.org
-.adservice.google.com
 .adslr.com
 .adsmogo.com
 .adsmogo.mobi
@@ -27614,12 +27613,9 @@
 .goodrain.com
 .goods-brand.com
 .goodstudydayup.com
-.goodtp.com
-.goofish.com
-.google-analytics.com
 .googleadservices.com
 .googleadsl.com
-.googleanalytics.com
+
 .googlebridge.com
 .googlefonts.net
 .googlesyndication.com
